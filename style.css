@@ -159,6 +159,33 @@ h4{
         cursor: pointer;
     }
 }
+/*--- all products ---*/
+
+.row-2{
+    margin: 100px auto 50px;
+    text-align: center;
+    padding-left: 100px;
+}
+select{
+    border: 1px solid #ff523b;
+    padding: 5px;
+    background-color: #82ecdb;
+    padding-right: -100px;
+
+}
+select:focus{
+    outline: none;
+}
+.sub-menu{
+    border: 1px solid #ff523b;
+    padding: 5px;
+    background-color: #82ecdb;
+}
+
+
+
+
+
 
 /*----media query for less than 600 screen size----*/
 @media only screen and (max-width: 600px){
