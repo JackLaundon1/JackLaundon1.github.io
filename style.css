@@ -177,9 +177,7 @@ select:focus{
     outline: none;
 }
 .sub-menu{
-    border: 1px solid #ff523b;
     padding: 5px;
-    background-color: #82ecdb;
 }
 
 
