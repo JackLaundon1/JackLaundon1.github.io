@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background: linear-gradient(#ffc6e0, #FFE5F9)
 }
 .navbar{
     display: flex;
@@ -239,9 +240,6 @@ ul{
 }
 .copyright{
     text-align: center;
-}
-.body-background{
-    background: linear-gradient(#ffc6e0, #FFE5F9);
 }
 
 /*---about us page---*/
